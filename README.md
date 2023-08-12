@@ -1,8 +1,8 @@
 ## 💥 **RISE. REBEL. RECLAIM YOUR PRIVACY.** 💥
 
-Feeling that Big Brother’s gaze is a bit too tight? Tired of being the digital pawn in the never-ending game of surveillance chess? It's time for a revolution. It's time for marzban-ezpz.
+**Feel like you're always being watched online? Tired of feeling like a target? It's time to make a change. It's time for marzban-ezpz.**
 
-Introducing **marzban-ezpz** – the quintessential sidekick for every modern-day privacy warrior out there. Take control, defy norms, and unlock a digital universe where YOU decide your boundaries. Dive deep into this realm of digital freedom, and make the virtual corridors of the web your kingdom.
+Meet marzban-ezpz – the perfect tool for anyone who values their online privacy. Take charge, break the rules, and create a safe online space where YOU set the limits. Dive into a world where the internet feels like your own safe space.
 
 🔥 **Features? They’re Breaking The Damn Molds Here!** 🔥
 
