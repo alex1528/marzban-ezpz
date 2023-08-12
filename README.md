@@ -21,7 +21,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/bitcoinvps/marzban-ezpz/main/
 ```
 
 ## **Why Should You Care?**
-Designed with a focus on Cloudflare IPs specific to Iran provided by [IRCF][https://ircf.space], this script simplifies the Marzban panel installation and gives you the tools to set up proxies that laugh in the face of:
+Designed with a focus on Cloudflare IPs specific to Iran provided by [IRCF](https://ircf.space), this script simplifies the Marzban panel installation and gives you the tools to set up proxies that laugh in the face of:
 
 - VLESS-TLS-Websocket
 - VMess-TLS-Websocket
